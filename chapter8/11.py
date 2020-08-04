@@ -32,5 +32,3 @@ if __name__ == "__main__":
     assert case.count(10) == 4
     assert case.count(8) == 2
     assert case.count(15) == 6
-    assert case.count(25) == 13
-    assert case.count(30) == 18
